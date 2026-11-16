@@ -70,3 +70,7 @@ The game only uses Python's standard library (`random`, `time`, `collections`,
 ```bash
 python muhendisligi-gecebilir-misin.py
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

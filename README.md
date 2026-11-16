@@ -61,27 +61,12 @@ take the easier courses first in elective semesters.
 ## Requirements
 
 - Python 3
-- Jupyter Notebook
 
 The game only uses Python's standard library (`random`, `time`, `collections`,
-`dataclasses`, `typing`), so no extra libraries are needed. Jupyter Notebook can be
-installed with:
-
-```bash
-pip install notebook
-```
+`dataclasses`, `typing`), so there is nothing to install with `pip`.
 
 ## Running the Game
 
-**In a terminal:**
-
 ```bash
 python muhendisligi-gecebilir-misin.py
-```
-
-**In Jupyter Notebook:** start Jupyter with `jupyter notebook`, create a new notebook
-in this folder and run this in a cell:
-
-```python
-%run muhendisligi-gecebilir-misin.py
 ```
